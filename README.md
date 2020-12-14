@@ -4,4 +4,4 @@ Ce formulaire s'intègre facilement avec quelques modifications dans tout projet
 
 Les emails sont envoyés en AJAX afin d'améliorer l'expérience utilisateur.
 
-Un système anti-spam est présent.
+Un système anti-spam non visible est présent.
