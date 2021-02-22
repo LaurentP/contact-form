@@ -2,7 +2,7 @@
 
 class Mailer
 {
-    private static $recipient = "lorenzopas@gmail.com";
+    private static $recipient = "your@email.tld";
 
     private static $response = [];
 
